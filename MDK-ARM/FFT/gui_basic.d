@@ -1,0 +1,16 @@
+fft\gui_basic.o: ..\ZLG_GUI\GUI_BASIC.C
+fft\gui_basic.o: ..\ZLG_GUI\config.h
+fft\gui_basic.o: ..\ZLG_GUI\LCMDRV.H
+fft\gui_basic.o: ..\ZLG_GUI\FONT_MACRO.H
+fft\gui_basic.o: ..\ZLG_GUI\GUI_CONFIG.H
+fft\gui_basic.o: ..\ZLG_GUI\GUI_BASIC.H
+fft\gui_basic.o: ..\ZLG_GUI\GUI_STOCKC.H
+fft\gui_basic.o: ..\ZLG_GUI\FONT5_7.H
+fft\gui_basic.o: ..\ZLG_GUI\FONT8_8.H
+fft\gui_basic.o: ..\ZLG_GUI\FONT24_32.H
+fft\gui_basic.o: ..\ZLG_GUI\LOADBIT.H
+fft\gui_basic.o: ..\ZLG_GUI\WINDOWS.H
+fft\gui_basic.o: ..\ZLG_GUI\MENU.H
+fft\gui_basic.o: ..\ZLG_GUI\spline.H
+fft\gui_basic.o: ..\ZLG_GUI\ConvertColor.H
+fft\gui_basic.o: D:\MySoftware\Keil5\softwarePath\ARM\ARMCC\Bin\..\include\math.h

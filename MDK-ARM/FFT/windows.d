@@ -1,0 +1,15 @@
+fft\windows.o: ..\ZLG_GUI\windows.c
+fft\windows.o: ..\ZLG_GUI\config.h
+fft\windows.o: ..\ZLG_GUI\LCMDRV.H
+fft\windows.o: ..\ZLG_GUI\FONT_MACRO.H
+fft\windows.o: ..\ZLG_GUI\GUI_CONFIG.H
+fft\windows.o: ..\ZLG_GUI\GUI_BASIC.H
+fft\windows.o: ..\ZLG_GUI\GUI_STOCKC.H
+fft\windows.o: ..\ZLG_GUI\FONT5_7.H
+fft\windows.o: ..\ZLG_GUI\FONT8_8.H
+fft\windows.o: ..\ZLG_GUI\FONT24_32.H
+fft\windows.o: ..\ZLG_GUI\LOADBIT.H
+fft\windows.o: ..\ZLG_GUI\WINDOWS.H
+fft\windows.o: ..\ZLG_GUI\MENU.H
+fft\windows.o: ..\ZLG_GUI\spline.H
+fft\windows.o: ..\ZLG_GUI\ConvertColor.H
